@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Strong expertise in MERN Stack, Next.js, TypeScript, React.js<br><br>Experience in building real-world products like scalable web applications, e-commerce platforms, AI-powered applications, etc.<br><br>Hands-on knowledge of REST APIs, MongoDB, Postman, AWS.<br><br>Interested in AI, automation, ML models and modern web technologies.
 
 
